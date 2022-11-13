@@ -11,9 +11,9 @@ const App = () => {
         {/* <Interests /> */}
         <Footer />
       </div>
-      <div className="App__sketch">
+      {/* <div className="App__sketch">
         <SketchImage />
-      </div>
+      </div> */}
     </div>
     ) 
   }
