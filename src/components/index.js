@@ -1,0 +1,5 @@
+export { default as Info } from "./Info/Info"
+export { default as About } from "./About/About"
+export { default as Interests } from "./Interests/Interests"
+export { default as Footer } from "./Footer/Footer"
+export { default as SketchImage } from "./Sketch/Sketch"

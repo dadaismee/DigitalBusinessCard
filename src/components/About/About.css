@@ -1,0 +1,19 @@
+.about__container {
+  background: var(--section-color);
+  width: var(--section-width);
+  line-height: var(--line-height);
+}
+
+.about__container > h3 {
+  color: #F5F5F5;
+  padding: 0 var(--section-padding) 0 var(--section-padding);
+  margin-bottom: -0.5rem;
+  font-size: 1rem;
+}
+
+.about__container > p {
+  color: #DCDCDC;
+  padding: 0 var(--section-padding) 0 var(--section-padding);
+  font-size: 0.9rem;
+}
+
