@@ -2,6 +2,10 @@
   "name": "gpt3-own",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://dadaismee.github.io/DigitalBusinessCard",
+  "resolutions": {
+    "babel-jest": "23.6.0"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -15,6 +19,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

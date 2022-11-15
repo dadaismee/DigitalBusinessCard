@@ -13,7 +13,7 @@ const Info = () => {
         <h1>Valerii Shevchenko</h1>
         <h4>Digital designer / Web-developer</h4>
         <div className='info__buttons-container'>
-         <a href='https://t.me/emsiadad'>
+         <a href='https://t.me/emsiadad' target="_blank">
           <button className='info__buttons-container_button info__buttons-container_button-left'>
               <img className='info__buttons-container_button-img' src={telegram}/>
               Telegram
