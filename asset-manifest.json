@@ -1,9 +1,9 @@
 {
   "main.css": "/DigitalBusinessCard/static/css/main.7884a9b8.chunk.css",
-  "main.js": "/DigitalBusinessCard/static/js/main.ca807a23.chunk.js",
-  "main.js.map": "/DigitalBusinessCard/static/js/main.ca807a23.chunk.js.map",
-  "static/js/1.f98f0c76.chunk.js": "/DigitalBusinessCard/static/js/1.f98f0c76.chunk.js",
-  "static/js/1.f98f0c76.chunk.js.map": "/DigitalBusinessCard/static/js/1.f98f0c76.chunk.js.map",
+  "main.js": "/DigitalBusinessCard/static/js/main.4c82c57f.chunk.js",
+  "main.js.map": "/DigitalBusinessCard/static/js/main.4c82c57f.chunk.js.map",
+  "static/js/1.86f1f8f2.chunk.js": "/DigitalBusinessCard/static/js/1.86f1f8f2.chunk.js",
+  "static/js/1.86f1f8f2.chunk.js.map": "/DigitalBusinessCard/static/js/1.86f1f8f2.chunk.js.map",
   "runtime~main.js": "/DigitalBusinessCard/static/js/runtime~main.d92039dc.js",
   "runtime~main.js.map": "/DigitalBusinessCard/static/js/runtime~main.d92039dc.js.map",
   "static/media/face.png": "/DigitalBusinessCard/static/media/face.8a8fe1ae.png",
@@ -11,6 +11,6 @@
   "static/media/telegram_white.png": "/DigitalBusinessCard/static/media/telegram_white.b226a0ba.png",
   "static/css/main.7884a9b8.chunk.css.map": "/DigitalBusinessCard/static/css/main.7884a9b8.chunk.css.map",
   "index.html": "/DigitalBusinessCard/index.html",
-  "precache-manifest.bf0a042c0076158054f89d6e34fa0e89.js": "/DigitalBusinessCard/precache-manifest.bf0a042c0076158054f89d6e34fa0e89.js",
+  "precache-manifest.a867551802dd12a3c9c7af40e9b74578.js": "/DigitalBusinessCard/precache-manifest.a867551802dd12a3c9c7af40e9b74578.js",
   "service-worker.js": "/DigitalBusinessCard/service-worker.js"
 }

@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "ca807a230289b0e9d03b",
+    "revision": "4c82c57f41e4c95da05b",
     "url": "/DigitalBusinessCard/static/css/main.7884a9b8.chunk.css"
   },
   {
-    "revision": "ca807a230289b0e9d03b",
-    "url": "/DigitalBusinessCard/static/js/main.ca807a23.chunk.js"
+    "revision": "4c82c57f41e4c95da05b",
+    "url": "/DigitalBusinessCard/static/js/main.4c82c57f.chunk.js"
   },
   {
-    "revision": "f98f0c76faea84607e83",
-    "url": "/DigitalBusinessCard/static/js/1.f98f0c76.chunk.js"
+    "revision": "86f1f8f275c2b82b667a",
+    "url": "/DigitalBusinessCard/static/js/1.86f1f8f2.chunk.js"
   },
   {
     "revision": "d92039dc7264ad83817b",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/DigitalBusinessCard/static/media/telegram_white.b226a0ba.png"
   },
   {
-    "revision": "3d90e13be469d854f09dce9194b1ee00",
+    "revision": "56afe177348168b191eef6b378d75a83",
     "url": "/DigitalBusinessCard/index.html"
   }
 ];
