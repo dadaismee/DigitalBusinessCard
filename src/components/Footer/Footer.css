@@ -20,3 +20,9 @@
 .footer__img:hover {
   opacity: 0.75;
 }
+
+@media screen and (max-width: 850px) {
+  .footer__image-container {
+    margin-top: 2rem;
+  }
+}
