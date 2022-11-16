@@ -21,8 +21,4 @@
   .App__container {
     grid-template-columns: 1fr;
   }
-  .App {
-    height: 100vh;
-    justify-content: center;
-  }
 }
