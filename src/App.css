@@ -6,10 +6,10 @@
 }
 
 .App {
+  height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
-  height: 100vh;
   font-family: var(--font-family);
 }
 
@@ -20,5 +20,9 @@
 @media screen and (max-width: 850px) {
   .App__container {
     grid-template-columns: 1fr;
+  }
+  .App {
+    height: 100vh;
+    justify-content: center;
   }
 }
