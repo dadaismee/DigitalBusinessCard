@@ -1,5 +1,5 @@
 import React from "react";
-import { Info, About, Interests, Footer, SketchImage } from "./components/index"
+import { Info, About, Footer, SketchImage } from "./components/index"
 import "./App.css"
 
 const App = () => { 
@@ -8,7 +8,6 @@ const App = () => {
       <div className="App">
         <Info />
         <About />
-        {/* <Interests /> */}
         <Footer />
       </div>
       <div className="App__sketch">

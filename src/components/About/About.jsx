@@ -5,7 +5,8 @@ const About = () => {
   return (
     <div className='about__container'>
       <h3>How I can help you</h3>
-      <p>I specialize in creating scalable and flexible visual identities using code, generative art prints and installations and fresh web experiences.</p>
+      <p>I am an aspiring designer/developer with a background in creative coding and generative art.</p> 
+      <p>I specialize in scalable and flexible brand identities made with code, fresh web experiences and generative art prints and installations.</p>
     </div>
   )
 }

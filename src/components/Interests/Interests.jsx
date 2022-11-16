@@ -4,8 +4,8 @@ import "./Interests.css"
 const Interests = () => {
   return (
     <div className='interests__container'>
-    <h3>Skills / Interests</h3>
-    <p>I use JS (ES6+), React and libs like p5.js</p>
+    <h3>Skills / Tech</h3>
+    <p>HTML, CSS, JS (ES6+), React, p5.js, Figma, SuperCollider</p>
   </div>
   )
 }
