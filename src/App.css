@@ -6,16 +6,12 @@
 }
 
 .App {
-  height: 100vh;
+  height: 100dvh;
   display: flex;
   flex-direction: column;
   justify-content: center;
   font-family: var(--font-family);
 }
-
-/* .App__sketch {
-  background: url("/src/assets/behance.png");
-} */
 
 @media screen and (max-width: 850px) {
   .App__container {
